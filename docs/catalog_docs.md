@@ -1,6 +1,7 @@
+---
 layout: page
-title: "API DOCS"
+title: Docs
 permalink: /api/
-
+---
 
 Catalog Microservice docs
